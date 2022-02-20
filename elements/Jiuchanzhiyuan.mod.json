@@ -1,0 +1,35 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "jiu_chan_zhi_yuan_",
+    "customModelName": "Normal",
+    "name": "Jiuchanzhiyuan",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Ddaodanitem"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "连接梦想的命运之种。 缘石辉光能让本无交集的命运交错，让彼此的梦想相连，正如这种光辉将群星连成心之所向的图形。"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "ddaodan",
+    "name": "ddaodan",
+    "description": "",
+    "version": "1.0.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "ddaodan"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
